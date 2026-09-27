@@ -4,7 +4,7 @@
 
 Pick a designer-made template, add your logo and colours, and send your first file in minutes. Then make every new version from the same design in the editor, your app, or your AI agent.
 
-![A project brief in the thirds.ai editor with fields and a finished page](https://thirds.ai/launch/product/editor-project-brief.webp)
+![Three branded designs made from reusable thirds.ai templates](https://thirds.ai/og/home.png)
 
 ### Start here
 
