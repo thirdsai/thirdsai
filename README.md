@@ -16,6 +16,6 @@ Pick a designer-made template, add your logo and colours, and send your first fi
 
 - [Agent skills](https://github.com/thirdsai/skills) guide an agent through brand kits, templates, single files, and batches.
 - [API docs](https://thirds.ai/docs/api) show how to make PDFs and images from your own code.
-- [Code example](https://github.com/thirdsai/skills/blob/main/examples/render_saved_template.mjs) shows one saved template filled with new data.
+- [Code examples](https://github.com/thirdsai/skills/tree/main/examples) show the same saved-template request in Python and Node.
 
 [Visit thirds.ai](https://thirds.ai) · [Read the docs](https://thirds.ai/docs) · [See the skills](https://github.com/thirdsai/skills)
