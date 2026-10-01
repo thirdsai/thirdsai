@@ -19,3 +19,5 @@ Pick a designer-made template, add your logo and colours, and send your first fi
 - [Code examples](https://github.com/thirdsai/skills/tree/main/examples) show the same saved-template request in Python and Node.
 
 [Visit thirds.ai](https://thirds.ai) · [Read the docs](https://thirds.ai/docs) · [See the skills](https://github.com/thirdsai/skills)
+
+[Claude Market](https://www.claudemarket.ai/)
