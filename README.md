@@ -20,4 +20,4 @@ Pick a designer-made template, add your logo and colours, and send your first fi
 
 [Visit thirds.ai](https://thirds.ai) · [Read the docs](https://thirds.ai/docs) · [See the skills](https://github.com/thirdsai/skills)
 
-[Claude Market](https://www.claudemarket.ai/)
+Listed in the [Claude Market MCP directory](https://www.claudemarket.ai/mcp)
